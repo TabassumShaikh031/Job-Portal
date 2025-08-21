@@ -56,8 +56,8 @@ src/
 
 🙏 Acknowledgements
 
-# Built with the latest Vite and React ecosystem
+ Built with the latest Vite and React ecosystem
 
-# UI styled using Tailwind CSS
+ UI styled using Tailwind CSS
 
- # Authentication via Clerk integration
+  Authentication via Clerk integration
